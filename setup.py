@@ -6,7 +6,7 @@ setup(
     packages = find_packages(),
     install_requires=[
 		'docopt==0.6.2',
-		'requests==2.7.0',
+		'requests==2.20.0',
     ]
 
     )
